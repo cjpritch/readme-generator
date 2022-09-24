@@ -74,7 +74,7 @@ const promptUser = data => {
         type: 'checkbox',
         name: 'licenses',
         message: 'Which licenses apply to this project? (Check all that apply)',
-        choices: ['APACHE', 'MIT', 'MOZILLA', 'PERL', 'ISC', 'IBM']
+        choices: ['APACHE', 'MIT', 'MOZILLA', 'IBM']
       },
       {
         type: 'input',
