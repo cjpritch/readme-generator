@@ -29,7 +29,39 @@ const generateMarkdown = templateData => {
   }
   licenseGenerator(licenses);
 
-return ` `
+// returns the markdown file 
+  return `
+
+  # ${ title }
+
+  ## Description
+  ${ description } 
+
+  ${ licenseBadge }
+
+  ## Table of Contents 
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Contribution Guidelines](#contributions)
+  - [Questions](#questions)
+
+  ${ licenseNav }
+
+  ## Installation
+  ${ install }
+
+  ## Usage
+  ${ usage }
+
+  ## Contribution Guidelines
+  ${ contribution }
+
+  ## License
+  ${ licenseString }
+  
+  ## Questions
+  Questions about this project? You can reach me by email at ${ email } or view my other projects on [GitHub](https://www.github.com/${github})!
+  `
 
 };
 
