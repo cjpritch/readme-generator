@@ -23,6 +23,8 @@ To get started, clone this repository and navigate into it's root folder. Then r
 
 ## Demo
 
-[Untitled_ Sep 24, 2022 4_07 PM.webm](https://user-images.githubusercontent.com/103770316/192119190-33d0d7c4-92fc-46fa-b19b-bcfb97fe9f3f.webm)
+https://user-images.githubusercontent.com/103770316/192119458-bc045f34-358f-4a75-9ca3-7cfc82bcd5bf.mp4
+
+
 
 ## Created by [Carly Pritchard](https://github.com/cjpritch)
